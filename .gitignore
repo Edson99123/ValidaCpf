@@ -1,0 +1,8 @@
+#Ignorar arquivos do git
+.settings
+.classpath
+.project
+bin/
+
+
+
